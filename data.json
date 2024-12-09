@@ -1,0 +1,32 @@
+{
+    "0": {
+        "id": "67551aa0e1402",
+        "nama": "kopi",
+        "harga": "29.000",
+        "stok": "200"
+    },
+    "2": {
+        "id": "6756dba171786",
+        "nama": "Gula 1 Kg",
+        "harga": "15.000",
+        "stok": "50"
+    },
+    "3": {
+        "id": "6756dbfa0f678",
+        "nama": "Beras 1 Kg",
+        "harga": "18.000",
+        "stok": "200"
+    },
+    "4": {
+        "id": "6756dc577c74f",
+        "nama": "Minyak 1 Liter",
+        "harga": "17.000",
+        "stok": "100"
+    },
+    "5": {
+        "id": "6756dc6deced7",
+        "nama": "Susu",
+        "harga": "5000",
+        "stok": "200"
+    }
+}

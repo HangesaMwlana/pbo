@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nama": "customer1",
+        "email": "customer1@gmail.com",
+        "telepon": "080000000001"
+    },
+    {
+        "id": 2,
+        "nama": "customer2",
+        "email": "customer2@gmail.com",
+        "telepon": "080000000002"
+    },
+    {
+        "id": 3,
+        "nama": "customer3",
+        "email": "customer3@gmail.com",
+        "telepon": "080000000003"
+    },
+    {
+        "id": 4,
+        "nama": "customer4",
+        "email": "customer4@gmail.com",
+        "telepon": "080000000004"
+    },
+    {
+        "id": 5,
+        "nama": "customer5",
+        "email": "customer5@gmail.com",
+        "telepon": "080000000005"
+    }
+]
